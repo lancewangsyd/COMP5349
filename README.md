@@ -1,5 +1,5 @@
 # te
-# COMP5329/assign1
+# COMP5329/assign1 - my contribution is in softmax.ipynt file
 # plz see softmax file, the code is based on andrew ng deep learning
 #https://github.com/andersy005/deep-learning-specialization-coursera
 
