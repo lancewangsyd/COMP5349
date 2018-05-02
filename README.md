@@ -1,6 +1,6 @@
-# softmax(1) file is the most updated version. can be downloaded and run block by block. prarameters can be changed for playing around.
-# The naive model's accuracy is 92%-train, 85%-test now. Note: the model in softmax(1) is naive model, i.e. without dropout/SGD-momentum
-# COMP5329/assign1 - my contribution is in softmax.ipynt file
+# the latest new version 6 is the latest file
+# current modules: basic moduels except for weight norm. extra modules: minibatch
+
 # plz see softmax file, the code is based on andrew ng deep learning
 #https://github.com/andersy005/deep-learning-specialization-coursera
 
@@ -11,4 +11,4 @@ https://github.com/rasbt/python-machine-learning-book/blob/master/code/bonus/sof
 #within basic modules, momentum in SGD, dropout can also be based on andrew ng's work.
 only weight norm need to be defined from scratch. 
 
-#for extra modules, we must implement minibatch, otherwise would be too slow. 
+ 
